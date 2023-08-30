@@ -3,7 +3,7 @@
 learning-azure-cloud-infrastructure-initiative
 # Learning Azure Cloud Infrastructure - Initiative
 
-Part of "Learning - Security" at https://github.com/vanHeemstraSystems/learning-security
+Part of "Learning - Cloud Computing" at https://github.com/vanHeemstraSystems/learning-cloud-computing
 
 Can be read as "Learning Azure Cloud Infrastructure - Initiative" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
 
