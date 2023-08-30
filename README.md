@@ -1,4 +1,4 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-azure-cloud-security-initiative/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-azure-cloud-security-initiative/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-initiative/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-initiative/actions/workflows/publish.yml)
 
 learning-azure-cloud-infrastructure-initiative
 # Learning Azure Cloud Infrastructure - Initiative
