@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Azure Cloud Security - Initiative](README.md)
+* [Learning Azure Cloud Infrastructure - Initiative](README.md)
